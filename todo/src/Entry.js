@@ -19,9 +19,6 @@ const Entry = ({todo, handleToggle, handleRemove}) => {
             <div className={todo.complete ? "todo strike" : "todo"} onClick={handleClick} id={todo.id}>
                 {todo.task}
             </div>
-{/*             <button onClick={handleButtonClick} className="edit-button" id={todo.id}>
-                <FaPen />
-            </button> */}
             <button onClick={handleRemoveClick} className="delete-button" id={todo.id}>
                 <FaTrash />
             </button>

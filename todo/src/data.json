@@ -1,81 +1,81 @@
 [{
     "id": 1,
-    "task": "Give dog a bath",
-    "complete": true
+    "task": "Get Jen a job",
+    "complete": false
   }, {
     "id": 2,
-    "task": "Do laundry",
-    "complete": true
+    "task": "Keep finding ways to help Jen",
+    "complete": false
   }, {
     "id": 3,
-    "task": "Vacuum floor",
+    "task": "Make a poster for Cody’s date",
     "complete": false
   }, {
     "id": 4,
-    "task": "Feed cat",
-    "complete": true
+    "task": "“Help Cody whenever he needs it",
+    "complete": false
   }, {
     "id": 5,
-    "task": "Change light bulbs",
+    "task": "Be a better cousin to Cody",
     "complete": false
   }, {
     "id": 6,
-    "task": "Go to Store",
-    "complete": true
+    "task": "Keep finding ways to help Jen",
+    "complete": false
   }, {
     "id": 7,
-    "task": "Fill gas tank",
-    "complete": true
+    "task": "“Treat your old friends like friends",
+    "complete": false
   }, {
     "id": 8,
-    "task": "Change linens",
+    "task": "Clean Jen's room",
     "complete": false
   }, {
     "id": 9,
-    "task": "Rake leaves",
-    "complete": true
+    "task": "Help Cody pass his calculus test",
+    "complete": false
   }, {
     "id": 10,
-    "task": "Bake Cookies",
+    "task": "Make sure Jen does not get too wasted",
     "complete": false
   }, {
     "id": 11,
-    "task": "Take nap",
-    "complete": true
+    "task": "Do Jen's laundry",
+    "complete": false
   }, {
     "id": 12,
-    "task": "Read book",
-    "complete": true
+    "task": "Talk to Anthony more than once a year",
+    "complete": false
   }, {
     "id": 13,
-    "task": "Exercise",
+    "task": "Get Cody birthday present",
     "complete": false
   }, {
     "id": 14,
-    "task": "Give dog a bath",
+    "task": "Get Jen card",
     "complete": false
   }, {
     "id": 15,
-    "task": "Do laundry",
+    "task": "Get Jen present",
     "complete": false
   }, {
     "id": 16,
-    "task": "Vacuum floor",
+    "task": "Pay rent",
     "complete": false
   }, {
     "id": 17,
-    "task": "Feed cat",
-    "complete": true
+    "task": "Make Jen breakfast",
+    "complete": false
   }, {
     "id": 18,
-    "task": "Change light bulbs",
+    "task": "Get to know coworkers",
     "complete": false
   }, {
     "id": 19,
-    "task": "Go to Store",
+    "task": "Leave the house once in a while",
     "complete": false
   }, {
     "id": 20,
-    "task": "Fill gas tank",
+    "task": "Play Mario Kart",
     "complete": false
   }]
