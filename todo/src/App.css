@@ -43,12 +43,46 @@
 }
 
 form {
+  margin: 1.5rem;
+}
+
+.lists {
+  max-height: 70vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-items: flex-start;
   margin-bottom: 1.5rem;
+}
+
+.left-side {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+} 
+
+.right-side {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
 }
 
 .todo-list {
   overflow-y: scroll;
-  max-height: 50vh;
+  height: 50vh;
+}
+
+.done-list {
+  overflow-y: scroll;
+  height: 50vh;
 }
 
 .todo {
@@ -128,4 +162,11 @@ button {
 
 .clear-button {
   width: fit-content;
+  margin: 1.5em;
 }
+
+.empty {
+  width: 40vw;
+  height: 50vh;
+}
+
